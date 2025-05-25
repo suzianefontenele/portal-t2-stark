@@ -22,7 +22,7 @@ Página institucional moderna e responsiva desenvolvida para a empresa **T2 Star
 
 1. **Clone o repositório**:
 ```bash
-git clone https://github.com/seu-usuario/t2-stark-homepage.git
+git clone https://github.com/suzianefontenele/portal-t2-stark.git
 ```
 
 2. **Instale as dependências:**:
